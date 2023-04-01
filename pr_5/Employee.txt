@@ -1,0 +1,2 @@
+(emp_id : emp_name : salary : department
+101 : priyank : 100000 : BMIIT
