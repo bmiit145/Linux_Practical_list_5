@@ -1,0 +1,3 @@
+(book_id : book_name : author_id : publisher_id : price )
+1002 : xyz : 2 : 101 : 1300
+1001 : 7 habits of highly effected people : 1 : 101 : 1500
