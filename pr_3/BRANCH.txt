@@ -1,0 +1,3 @@
+(BID | BNAME | CITY
+1 kamrej surat
+2 vadodara 
